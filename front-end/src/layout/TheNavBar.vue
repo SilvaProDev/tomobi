@@ -22,7 +22,9 @@
                 </ul>
               </li>
               <!-- Menu items-->
-              <li class="nav-item active"><a class="nav-link" href="car-finder-home.html">Home</a></li>
+              <li class="nav-item active">
+                <a class="nav-link" href=""  @click.prevent="routeHome">Home</a>
+                </li>
               <li class="nav-item dropdown"><a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">Catalog</a>
                 <ul class="dropdown-menu dropdown-menu-dark">
                   <li><a class="dropdown-item" href="car-finder-catalog-list.html">List View</a></li>
@@ -71,3 +73,18 @@
       
     </div>
 </template>
+<script lang='ts' setup>
+import { useRouter } from "vue-router";
+
+const router = useRouter();
+
+
+//  ICI DEBUT LES METHODES
+function routeHome() {
+  console.log("hello")
+  router.push({
+    name: "DetailsVehicule",
+  });
+}
+//  ICI FIN LES METHODES
+</script>
