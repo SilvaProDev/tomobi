@@ -1,7 +1,7 @@
 import { createRouter, createWebHistory } from 'vue-router'
 import HomePage from '../components/HomePage.vue'
 import DetailsVehicule from '../components/DetailsVehicule.vue'
-import RechercheVehicule from '../components/RechercheVehicule.vue'
+import RechercheVehicule  from '../components/RechercheVehicule.vue'
 
 
 
@@ -28,3 +28,4 @@ const router = createRouter({
 })
 
 export default router
+
