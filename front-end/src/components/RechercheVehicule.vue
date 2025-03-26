@@ -53,11 +53,15 @@
                 </div>
                 <h5 class="mb-1 text-dark">Ford Truck Lifted </h5>
                 <div class="text-primary fw-bold mb-1">2 400 000 FCFA</div>
-                <div class="fs-sm text-dark opacity-70"><i class="fi-map-pin me-1"></i>Chicago</div>
+                <div class="d-flex align-items-center justify-content-between pb-1">
+                  <span class="fs-sm text-dark me-3"><i class="fi-map-pin me-1"></i> Chicago</span>
+                  <a href="/DetailsVehicule" class="btn btn-sm btn-primary">Détails</a>
+                </div>
+                <div class="fs-sm text-dark opacity-70"></div>
                 <div class="border-top border-light mt-3 pt-3">
                   <div class="row g-2">
                     <div class="col me-sm-1">
-                      <div class="bg-dark rounded text-center w-100 h-100 p-2"><i class="fi-dashboard d-block h4 text-light mb-0 mx-center"></i><span class="fs-xs text-light">278K mi</span></div>
+                      <div class="bg-dark rounded text-center w-100 h-100 p-2"><i class="fi-dashboard d-block h4 text-light mb-0 mx-center"></i><span class="fs-xs text-light">278 000 Km</span></div>
                     </div>
                     <div class="col me-sm-1">
                       <div class="bg-dark rounded text-center w-100 h-100 p-2"><i class="fi-gearbox d-block h4 text-light mb-0 mx-center"></i><span class="fs-xs text-light">Manual</span></div>
