@@ -7,15 +7,18 @@
             <button class="btn-close btn-close-white position-absolute top-0 end-0 mt-3 me-3" type="button" data-bs-dismiss="modal"></button>
             <div class="row mx-0 align-items-center">
                 <div class="col-md-6 border-end-md border-light p-4 p-sm-5">
-                <h2 class="h3 text-light mb-4 mb-sm-5">Bienvenue<br>Partenaire</h2><img class="d-block mx-auto" src="/img/logo/tomobi.png" width="344" alt="Illustration">
+                <h2 class="h3 text-light">Bienvenue</h2>
+                <h6 class="text-primary mb-4 mb-sm-5">Connexion Espace Membres</h6>
+                <img class="d-block mx-auto" src="/img/logo/tomobi.png" width="344" alt="Illustration">
                 <div class="text-light mt-4 mt-sm-5"><span class="opacity-60">Si vous n'avez pas de compte </span><br><a class="text-light" href="#signup-modal" data-bs-toggle="modal" data-bs-dismiss="modal">Inscrivez-vous maintenant</a></div>
                 </div>
-                <div class="col-md-6 px-4 pt-2 pb-4 px-sm-5 pb-sm-5 pt-md-5"><a class="btn btn-outline-info w-100 mb-3" href="#"><i class="fi-google fs-lg me-1"></i>Avec Google</a><a class="btn btn-outline-info w-100 mb-3" href="#"><i class="fi-facebook fs-lg me-1"></i>Avec Facebook</a>
-                <div class="d-flex align-items-center py-3 mb-3">
-                    <hr class="hr-light w-100">
-                    <div class="text-light opacity-70 px-3">Ou</div>
-                    <hr class="hr-light w-100">
-                </div>
+                <div class="col-md-6 px-4 pt-2 pb-4 px-sm-5 pb-sm-5 pt-md-5">
+                    <!-- <a class="btn btn-outline-info w-100 mb-3" href="#"><i class="fi-google fs-lg me-1"></i>Avec Google</a><a class="btn btn-outline-info w-100 mb-3" href="#"><i class="fi-facebook fs-lg me-1"></i>Avec Facebook</a>
+                    <div class="d-flex align-items-center py-3 mb-3">
+                        <hr class="hr-light w-100">
+                        <div class="text-light opacity-70 px-3">Ou</div>
+                        <hr class="hr-light w-100">
+                    </div> -->
                 <form class="needs-validation" novalidate>
                     <div class="mb-4">
                     <label class="form-label text-light mb-2" for="signin-email">Email: </label>
@@ -48,7 +51,8 @@
             <button class="btn-close btn-close-white position-absolute top-0 end-0 mt-3 me-3" type="button" data-bs-dismiss="modal"></button>
             <div class="row mx-0 align-items-center">
                 <div class="col-md-6 border-end-md border-light p-4 p-sm-5">
-                <h2 class="h3 text-light mb-4 mb-sm-5">Rejoignez Finder.<br>Obtenez des avantages premium:</h2>
+                <h3 class="text-light">Rejoignez Tomobi !</h3>
+                <p class="mb-3 text-warning">Un compte qui vous donne accès à tout</p>
                 <ul class="list-unstyled mb-4 mb-sm-5">
                     <li class="d-flex mb-2"><i class="fi-check-circle text-primary mt-1 me-2"></i><span class="text-light">Ajoutez et promouvez vos annonces</span></li>
                     <li class="d-flex mb-2"><i class="fi-check-circle text-primary mt-1 me-2"></i><span class="text-light">Gérez facilement votre liste de souhaits</span></li>
@@ -56,12 +60,13 @@
                 </ul><img class="d-block mx-auto" src="/img/logo/tomobi.png" width="344" alt="Illustration">
                 <div class="text-light mt-sm-4 pt-md-3"><span class="opacity-60">Vous avez déjà un compte? </span><a class="text-light" href="#signin-modal" data-bs-toggle="modal" data-bs-dismiss="modal">Connectez-vous</a></div>
                 </div>
-                <div class="col-md-6 px-4 pt-2 pb-4 px-sm-5 pb-sm-5 pt-md-5"><a class="btn btn-outline-info w-100 mb-3" href="#"><i class="fi-google fs-lg me-1"></i>Se connecter avec Google</a><a class="btn btn-outline-info w-100 mb-3" href="#"><i class="fi-facebook fs-lg me-1"></i>Se connecter avec Facebook</a>
+                <div class="col-md-6 px-4 pt-2 pb-4 px-sm-5 pb-sm-5 pt-md-5">
+                    <!-- <a class="btn btn-outline-info w-100 mb-3" href="#"><i class="fi-google fs-lg me-1"></i>Se connecter avec Google</a><a class="btn btn-outline-info w-100 mb-3" href="#"><i class="fi-facebook fs-lg me-1"></i>Se connecter avec Facebook</a>
                 <div class="d-flex align-items-center py-3 mb-3">
                     <hr class="hr-light w-100">
                     <div class="text-light opacity-70 px-3">Ou</div>
                     <hr class="hr-light w-100">
-                </div>
+                </div> -->
                 <form class="needs-validation" novalidate>
                     <div class="mb-4">
                     <label class="form-label text-light" for="signup-name">Nom complet</label>
