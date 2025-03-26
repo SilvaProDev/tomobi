@@ -110,6 +110,7 @@
             <!-- Menu items-->
             <li class="nav-item active"><a class="nav-link" href="./">Accueil</a></li>
             <li class="nav-item"><a class="nav-link" href="/RechercheVehicule">Recherche</a></li>
+            <li class="nav-item"><a class="nav-link" href="/DetailsVehicule">Details</a></li>
             <li class="nav-item dropdown"><a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">Vente</a>
                 <ul class="dropdown-menu dropdown-menu-light">
                   <li><a class="dropdown-item" href="#">Neuves</a></li>

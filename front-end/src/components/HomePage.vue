@@ -8,7 +8,9 @@
               <p class="fw-bold text-dark opacity-90">TOMOBI est votre plateforme spécialisée dans la vente, l'achat et la location de véhicules en Côte d'Ivoire. <br>
               Trouvez, en un Clic, votre voiture parmi plus d'un million de voitures disponibles. </p>
             </div>
-            <div class="col-lg-7 col-md-7 pt-md-5"><img class="d-block mt-4 ms-auto" src="/img/home/hero-img.png" width="800" alt="Car"></div>
+            <div class="col-lg-7 col-md-7 pt-md-5">
+              <img class="d-block mt-4 ms-auto" src="/img/home/hero-img.png" width="800" alt="Car">
+            </div>
           </div>
         </div>
         <div class="container mt-4 mt-sm-3 mt-lg-n3 pb-5 mb-md-4">
