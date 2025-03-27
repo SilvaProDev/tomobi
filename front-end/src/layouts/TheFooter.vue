@@ -43,7 +43,7 @@
                     <div class="col-lg-2 col-md-3 col-sm-6 mb-2 mb-sm-4">
                         <h3 class="fs-base text-light">Espace Pro</h3>
                         <ul class="list-unstyled fs-sm">
-                            <li><a class="nav-link-light" href="#">Mon compte</a></li>
+                            <li><a class="nav-link-light" href="#signin-modal" data-bs-toggle="modal">Mon compte</a></li>
                             <li><a class="nav-link-light" href="#">Liste de souhaits</a></li>
                             <li><a class="nav-link-light" href="#">Mes annonces</a></li>
                             <li><a class="nav-link-light" href="#">Ajouter une annonce</a></li>

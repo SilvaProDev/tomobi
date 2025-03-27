@@ -4,8 +4,8 @@
         <div class="container pt-5">
           <div class="row pt-lg-4 pt-xl-5">
             <div class="col-lg-5 col-md-5 pt-3 pt-md-4 pt-lg-5">
-              <h1 class="text-dark pb-2 mb-4">Vente - Achat - Location de voiture partout en Côte d'Ivoire</h1>
-              <p class="fw-bold text-dark opacity-90">TOMOBI est votre plateforme spécialisée dans la vente, l'achat et la location de véhicules en Côte d'Ivoire. <br>
+              <h1 class="text-dark pb-2 mb-4">Vente - Achat - Location de voiture partout en <br> Côte d'Ivoire</h1>
+              <p class="fw-bold text-dark opacity-90" style="font-size: 1.6rem;">TOMOBI est votre plateforme spécialisée dans la vente, l'achat et la location de véhicules en Côte d'Ivoire. <br>
               Trouvez, en un Clic, votre voiture parmi plus d'un million de voitures disponibles. </p>
             </div>
             <div class="col-lg-7 col-md-7 pt-md-5">
@@ -101,7 +101,7 @@
       </section>
 
 
-      <section class="container pt-sm-1 pb-5 mb-md-2">
+      <section class="container pt-sm-1 pb-3 mb-md-2">
         <div class="d-sm-flex align-items-center justify-content-between mb-2 pb-sm-2">
           <h2 class="h3 text-primary mb-1 mb-sm-0">Offres Flash</h2><a class="btn btn-link btn-primary fw-normal px-0" href="#">Voir toutes les offres<i class="fi-arrow-long-right fs-sm mt-0 ps-1 ms-2"></i></a>
         </div>
@@ -109,7 +109,7 @@
           <div class="col-lg-6">
             <!-- Item-->
             <div class="card card-white card-hover h-lg-100 mb-4 mb-lg-0">
-              <div class="carousel-wrapper card-img-top card-img-hover"><a class="img-overlay" href="#"></a>
+              <div class="carousel-wrapper card-img-top card-img-hover"><a class="img-overlay" href="/DetailsVehicule"></a>
                 <div class="position-absolute start-0 top-0 pt-3 ps-3"><span class="d-table badge bg-info mb-1">New</span><span class="d-table badge bg-success" data-bs-toggle="popover" data-bs-placement="bottom" data-bs-trigger="hover" data-bs-html="true" data-bs-content="Certifié">Certified</span></div>
 
                 <div class="tns-carousel-inner">
@@ -213,8 +213,7 @@
         </div>
       </section>
 
-
-      <section class="container py-sm-3">
+      <section class="container py-3">
         <h5 class="text-primary">Les principales marques</h5>
         <div class="row py-2 bg-dark rounded  border border-primary">
           <div class="col-3 col-sm-2 col-xl-1 p-1"><a class="opacity-25 opacity-transition d-table mx-auto" href="#"><img src="/img/brands/opel.svg" width="86" alt="Opel"></a></div>
@@ -232,8 +231,8 @@
         </div>
       </section>
 
-      <Presentation />
       <DernieresOffres />
+      <Presentation />
 
     </div>
 </template>

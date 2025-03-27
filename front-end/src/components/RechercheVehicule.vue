@@ -3,7 +3,7 @@
       <div class="container mt-3 mb-1 py-5">
         <div class="row py-1">
           <!-- Filers sidebar (Offcanvas on mobile)-->
-          <div class="col-lg-3 pe-xl-4">
+          <div class="col-lg-3 pe-4">
             <FiltreRecherche />
           </div>
           <!-- Results section-->
@@ -27,9 +27,8 @@
                 <i class="fi-arrows-sort mt-n1 me-2"></i>Trier par:</label>
                 <select class="form-select form-select-dark form-select-sm me-sm-4">
                   <option>Plus récent</option>
-                  <option>Populaire</option>
                   <option>Prix: Bas - Elevé</option>
-                  <option>Price: Elevé - Bas</option>
+                  <option>Prix: Elevé - Bas</option>
                 </select>                
               </div>
             </div>
@@ -48,7 +47,7 @@
               </div>
               <div class="card-body">
                 <div class="d-flex align-items-center justify-content-between pb-1">
-                  <span class="fs-sm text-primary me-3">1995</span>
+                  <span class="fs-sm text-primary me-3">Année : 1995</span>
                   <small class="text-dark opacity-70">Posté le: 07/03/2025</small>
                 </div>
                 <h5 class="mb-1 text-dark">Ford Truck Lifted </h5>

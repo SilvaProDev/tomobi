@@ -115,7 +115,7 @@
                             <h5 class="text-white">Réserver ce véhicule</h5>
                             <div>
                                 <span class="h5 text-white">Prix: </span> 
-                                <span class="h2 text-primary"> 3.500.000 FCFA</span>
+                                <span class="h3 text-primary bg-white px-2 rounded-pill"> <i class="fi-cash text-primary me-1"></i> 3.500.000 FCFA</span>
                             </div>
                         </div>
                         <div class="card card-light card-body mb-4">

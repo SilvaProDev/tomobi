@@ -1,8 +1,8 @@
 <template>
     <div>
-        <section class="container pt-2 pt-md-3 rounded-3 border border-primary" style="background-color: #003;">
+        <section class="container mt-5 pt-2 pt-md-3 rounded-3 border border-primary" style="background-color: #003;">
         <div class="d-sm-flex align-items-center justify-content-around">
-            <h2 class="h3 text-primary mb-2 mb-sm-0 text-center">Pourquoi choisir notre plateforme ?</h2><a class="btn btn-link btn-light fw-normal px-0" href="#">How to sell cars on Finder<i class="fi-arrow-long-right fs-sm mt-0 ps-1 ms-2"></i></a>
+            <h2 class="h3 text-primary mb-2 mb-sm-0 text-center">Pourquoi choisir notre plateforme ?</h2><a class="btn btn-link btn-light fw-normal px-0" href="#">Comment vendre sur TOMOBI?<i class="fi-arrow-long-right fs-sm mt-0 ps-1 ms-2"></i></a>
         </div>
         <div class="row">
             <div class="col-md-5 col-lg-4 offset-lg-1 pt-4 mt-2 pt-md-5 mt-md-3">

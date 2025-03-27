@@ -96,7 +96,7 @@
                     </div>
                     <div class="form-check form-check-light mb-4">
                     <input class="form-check-input" type="checkbox" id="agree-to-terms" required>
-                    <label class="form-check-label" for="agree-to-terms"><span class='opacity-70'>En rejoignant, j'accepte les</span> <a href='#' class='text-light'>Conditions d'utilisation</a> <span class='opacity-70'>et la</span> <a href='#' class='text-light'>Politique de confidentialité</a></label>
+                    <label class="form-check-label" for="agree-to-terms"><span class='opacity-70'>En rejoignant TOMOBI, j'accepte les</span> <a href='#' class='text-light'>Conditions d'utilisation</a> <span class='opacity-70'>et la</span> <a href='#' class='text-light'>Politique de confidentialité</a></label>
                     </div>
                     <button class="btn btn-primary btn-lg w-100" type="submit">S'inscrire</button>
                 </form>
@@ -118,6 +118,7 @@
             <li class="nav-item"><a class="nav-link" href="/DetailsVehicule">Details</a></li>
             <li class="nav-item dropdown"><a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">Vente</a>
                 <ul class="dropdown-menu dropdown-menu-light">
+                  <li><a class="dropdown-item" href="/AjouterVehicule">Ajouter un Véhicule</a></li>
                   <li><a class="dropdown-item" href="#">Neuves</a></li>
                   <li><a class="dropdown-item" href="#">Reconditionnées</a></li>
                   <li><a class="dropdown-item" href="#">Occasions</a></li>
